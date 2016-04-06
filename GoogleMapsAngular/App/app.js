@@ -1,0 +1,1 @@
+﻿var GoogleMapsApp = angular.module("GoogleMaps", ['uiGmapgoogle-maps']);
